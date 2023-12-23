@@ -15,7 +15,7 @@ function createEntry(entry){
 function App() {
 
   return (
-    <div>
+    <div className='box'>
       <h1>
         <span>Different Accents and Sayings among English Speaking Countries</span>
       </h1>
